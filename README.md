@@ -1,79 +1,146 @@
+<div align="center">
+
 # 🚀 Computer Fundamentals Workshop
 
-A free introductory workshop designed to build a strong foundation in Computer Science for beginners.
+### A Free Introductory Computer Science Workshop for Beginners
 
-> 📚 Language: Arabic (with English technical terminology)
+📚 Arabic Content | 💻 English Technical Terminology | 🎥 Free on YouTube
+
+</div>
 
 ---
 
 ## 📖 About
 
-This workshop was originally delivered as a free 3-session series for first and second-year high school students.
+**Computer Fundamentals Workshop** is a free educational workshop designed to help beginners build a solid foundation in Computer Science before learning programming.
 
-The content is also suitable for anyone starting their journey in Computer Science.
+The workshop was originally delivered to first and second-year high school students, but the content is suitable for **anyone starting their journey in Computer Science**.
 
-The goal is to understand **how computers work before learning programming.**
+Throughout the workshop, the concepts are explained in **Arabic** while introducing the **English technical terminology** used in the industry to help learners become familiar with real-world technical vocabulary.
 
 ---
 
-## 📚 Workshop Content
+## 🎯 Workshop Objectives
 
-### Session 1 — Computer Fundamentals
+- Understand how computers work.
+- Learn the fundamentals of computer hardware and software.
+- Understand how the Internet works.
+- Build a strong programming foundation.
+- Learn technical terms used in Computer Science.
 
-- Hardware vs Software
-- Computer Components
-- CPU
-- RAM
-- Storage
-- Operating System
+---
 
-🎥 YouTube:
+# 📚 Workshop Sessions
+
+| Session | Topic | PDF | Video |
+|---------|-------|-----|-------|
+| 01 | Computer Fundamentals | ✅ | https://youtu.be/ALH-GZzl7tA |
+| 02 | Internet Fundamentals | ✅ | https://youtu.be/99YaPWwyAO0 |
+| 03 | Programming Fundamentals | ✅ | https://youtu.be/xr6d2603hzA |
+
+---
+
+# 📂 Repository Structure
+
+```text
+.
+├── session-01-computer-fundamentals
+├── session-02-internet-fundamentals
+├── session-03-programming-fundamentals
+├── feedback
+├── resources.md
+├── LICENSE
+└── README.md
+```
+
+---
+
+# 🎓 Who is this workshop for?
+
+- Beginners
+- High School Students
+- Anyone interested in Computer Science
+- Future Software Engineers
+- Self-learners
+
+---
+
+# 📺 Watch the Workshop
+
+The complete workshop is available for free on YouTube.
+
+### Session 1
+Computer Fundamentals
+
 https://youtu.be/ALH-GZzl7tA
 
----
+### Session 2
+Internet Fundamentals
 
-### Session 2 — Internet Fundamentals
-
-- Network
-- Router
-- Server
-- Firewall
-- IP
-- DNS
-
-🎥 YouTube:
 https://youtu.be/99YaPWwyAO0
 
----
+### Session 3
+Programming Fundamentals
 
-### Session 3 — Programming Fundamentals
-
-- Programming History
-- Machine Language
-- Assembly
-- Compiler
-- High-Level Languages
-- Programming Fields
-
-🎥 YouTube:
 https://youtu.be/xr6d2603hzA
 
 ---
 
-## 📄 Materials
+# 📄 Materials
 
-PDF slides for each session are included in this repository.
+This repository includes:
 
----
-
-## 🎯 Target Audience
-
-- Beginners
-- High School Students
-- Anyone starting Computer Science
+- PDF Slides
+- Workshop Notes
+- Student Feedback
+- Learning Resources
 
 ---
 
-## 👨‍🏫 Instructor
+# 🛣️ Recommended Learning Path
+
+```
+Computer Fundamentals
+        ↓
+Internet Fundamentals
+        ↓
+Programming Fundamentals
+        ↓
+Programming Language
+        ↓
+Data Structures
+        ↓
+Algorithms
+        ↓
+Git & GitHub
+        ↓
+Choose Your Career Path
+```
+
+---
+
+# 💬 Student Feedback
+
+Students' feedback is available in the **feedback** directory.
+
+---
+
+# 👨‍🏫 Instructor
 
 **Yehya Hamdy Shehata**
+
+Computer Science Student & Technical Instructor
+
+---
+
+# 📄 License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+---
+
+<div align="center">
+
+⭐ If you found this repository useful, consider giving it a star.
+
+</div>
