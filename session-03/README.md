@@ -1,6 +1,8 @@
 <p align="center">
   <img src="cover.jpg" width="700">
 </p>
+
+
 # 👨‍💻 Session 03 – Programming Fundamentals
 
 ## Overview
