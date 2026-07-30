@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" width="700">
+  <img src="cover.jpg" width="700">
 </p>
 # 👨‍💻 Session 03 – Programming Fundamentals
 
