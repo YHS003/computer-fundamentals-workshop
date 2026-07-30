@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover.jpg" width="700">
+</p>
+
+
 # 🌐 Session 02 – Internet Fundamentals
 
 ## Overview
